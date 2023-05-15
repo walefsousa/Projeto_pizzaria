@@ -1,5 +1,5 @@
 <footer>
-        <p>Roda pé</p>
+        <p>Pizzaria &copy; 2023</p>
 
     </footer>
     <!-- Bootstrap JS -->
